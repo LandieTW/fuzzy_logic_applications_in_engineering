@@ -1,1 +1,1 @@
-skfuzzy 0.4.2 docs https://scikit-fuzzy.github.io/scikit-fuzzy/
+THE FUNNY STARTS IN THE 6TH EXERCISE
